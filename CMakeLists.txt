@@ -59,6 +59,7 @@ add_message_files(
   torqueCommand.msg
   model.msg
   VelocityCommand.msg
+  matrix_3_4.msg
 )
 
 ## Generate services in the 'srv' folder
