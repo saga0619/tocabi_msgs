@@ -60,6 +60,7 @@ add_message_files(
   model.msg
   VelocityCommand.msg
   matrix_3_4.msg
+  WalkingCommand.msg
 )
 
 ## Generate services in the 'srv' folder
