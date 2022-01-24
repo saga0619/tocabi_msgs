@@ -50,6 +50,7 @@ uint32 ik_mode
 bool dob
 bool imu
 bool mom
+bool MPC
 uint32 first_foot_step
 float32 x
 float32 y
