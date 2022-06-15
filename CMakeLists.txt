@@ -61,6 +61,7 @@ add_message_files(
   VelocityCommand.msg
   matrix_3_4.msg
   WalkingCommand.msg
+  FTsensor.msg
 )
 
 ## Generate services in the 'srv' folder
